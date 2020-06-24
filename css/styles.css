@@ -1,0 +1,83 @@
+#title{
+    background-color: #b4a7d6;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.img1{
+    width: 400px;
+    height: 600px;
+}
+.row{
+    padding: 10% 0% 0% 0%;
+}
+.downloadbtn{
+    margin: 5% 3% 0% 3%;
+}
+h3{
+    font-size: 1.5rem;
+    margin-left: 20px;
+}
+p{
+    color: #8f8f8f;
+}
+.icon{
+    margin-left: 50px;
+}
+#features{
+    margin-left: 200px;
+    margin-bottom: 200px;
+}
+#awsp{
+    margin-left: 40px;
+}
+#awsh{
+    margin-left: 65px;
+}
+.icon:hover{
+    color: navy;
+}
+#head2{
+    margin-top: 10px;
+    font-family: 'Montserrat';
+}
+.varun{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+.w-100{
+    height: 500px;
+    width: 300px;
+}
+#testimonials{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    background-color: #b4a7d6;
+}
+#carouselExampleFade{
+    margin: 200px;
+}
+#cta{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #b4a7d6;
+    padding: 200px;
+}
+.downloadbtn1{
+    margin: 20px;
+}
+#footer{
+    margin: 20px;
+    text-align: center;
+}
+.fi{
+    margin: 5px;
+}
+.fi:hover{
+    color: navy;
+}
